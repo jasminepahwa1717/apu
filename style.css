@@ -51,8 +51,17 @@
        
 
             
-@media only screen and (max-width:300px){
+@media only screen and (max-width:200px){
     .ody{
         width: 400px;
+    }
+    .box{
+        width: 400px;
+    }
+    .c2{
+        width: 400px;
+    }
+    .c2 img{
+        width: 100%;
     }
 }
