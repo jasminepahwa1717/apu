@@ -1,6 +1,6 @@
 
             .box {
-                width: 400px;
+                width: 390px;
                 margin-left: auto;
                 margin-right: auto;
                 
@@ -10,7 +10,7 @@
             
 
             .c2 img{
-                width: 400px;
+                width: 390px;
             }
             .btn {
                  padding: 0.5rem 2rem;
@@ -34,7 +34,7 @@
 
             .c2 {
                 font-size: 16px;
-                width: 400px;
+                width: 390px;
                 
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
                 background-color: rgb(255, 255, 255);
@@ -50,16 +50,16 @@
             
 @media only screen and (max-width:200px){
     .ody{
-        width: 400px;
+        width: 390px;
     }
     .box{
-        width: 400px;
+        width: 390px;
     }
     .c2{
-        width: 400px;
+        width: 390px;
     }
     .c2 img{
-        width: 400px;
+        width: 390px;
     }
 }
 
