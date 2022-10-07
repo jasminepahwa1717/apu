@@ -1,5 +1,5 @@
 
-            .box {
+          .box {
                 width: 800px;
                 margin-left: auto;
                 margin-right: auto;
@@ -24,8 +24,9 @@
                  text-decoration: none;
                  color: #333;
                  cursor: pointer;
-                 
-}
+                 align-items: center;
+            }                 
+
             .c1  {
             
             height:50px;
@@ -35,7 +36,7 @@
             }
             .c2 {
                 font-size: 16px;
-                
+                width: 800px;
                 
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
                 background-color: rgb(255, 255, 255);
@@ -48,3 +49,10 @@
                 font-size: 14;
                }           
        
+
+            
+@media only screen and (max-width:1000px){
+    .box{
+        width: 700px;
+    }
+}
