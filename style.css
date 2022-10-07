@@ -41,6 +41,10 @@
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
                 background-color: rgb(255, 255, 255);
             }
+
+            .c2 img{
+                width: 800px;
+            }
             .c7 {                
                 box-shadow: rgb(3, 3, 3);
                 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
